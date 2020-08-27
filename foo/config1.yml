@@ -1,1 +1,2 @@
-f-server: 80
+server:
+  port: 80
