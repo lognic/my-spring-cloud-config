@@ -1,4 +1,5 @@
 server:
-  port:9999
+  port:19999
+spring:
   profiles:
     active: test
