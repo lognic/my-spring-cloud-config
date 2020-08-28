@@ -1,5 +1,7 @@
 server:
-  port:19999
+  port: 19999
 spring:
+  application:
+    name: test-cloud-test
   profiles:
     active: test
